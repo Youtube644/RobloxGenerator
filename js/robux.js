@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Add Robux on Roblox 1.2
+// @name norvelldh        Add Robux on Roblox 1.2
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Robux Hack
-// @author       You
+// @author       norvelldh
 // @match        https://www.roblox.com/*
 // @grant        none
 // ==/UserScript==
@@ -18,8 +18,8 @@ java.prototype = {script
   
 };
 
-    //robux: (1000000)function add robux()
-    //roblox: (https:roblox.com/home)
+    //robux: (1000000)function add Robux()
+    //Roblox: (https:roblox.com/home)
     //add: (//1,000,000)
     //appear: (/:1,000,000/)
     function robuxadd1000000() {
